@@ -13,8 +13,6 @@
 
 ## Main Idea
 
-</p>
-
 <p align="center">
   <a href="">
     <img src="assets/teaser.png" alt="Relit" width="75%">
@@ -26,8 +24,6 @@
 
 ## Architecture overview
 
-<br>
-
 <p align="center">
   <a href="">
     <img src="./assets/pipeline.png" alt="Pipeline" width="99%">
@@ -38,11 +34,7 @@
 queries is effected. Following this, we concomitantly refine octree queries and rectify the octree structure through the octree encoder. Finally, we decode from the octree query and obtain occupancy prediction outcomes for this frame. For better visualisation, the diagram of Iterative Structure Rectification module shows octree query and mask in 2D form(quadtree).
 </p>
 
-<br>
-
 ## Performance
-
-<br>
 
 <p align="center">
   <a href="">
@@ -54,11 +46,7 @@ queries is effected. Following this, we concomitantly refine octree queries and 
   Experiments conducted on the Occ3D-nuScenes dataset demonstrate that our approach enhances performance while substantially decreasing computational overhead (even when compared to 2D modeling approaches).
 </p>
 
-<br>
-
 ## Visualization
-
-<br>
 
 <p align="center">
   <a href="">
@@ -68,8 +56,6 @@ queries is effected. Following this, we concomitantly refine octree queries and 
 <p align="center">
   Qualitative results on Occ3D-nuScenes validation set. The first row displays input multi-view images, while the second row showcases the occupancy prediction results of PanoOcc, FBOCC, our methods, and the ground truth
 </p>
-
-<br>
 
 ## Next Step
 
