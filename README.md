@@ -11,6 +11,8 @@
   <h3 align="center"><a href="https://arxiv.org/abs/2312.03774">Paper</a> <a </h3>
   <div align="center"></div>
 
+## Main Idea
+
 </p>
 
 <p align="center">
@@ -21,6 +23,8 @@
 <p align="center">
   OctreeOcc employs octree queries to offer varying granularity for distinct semantic regions, thereby diminishing the requisite number of queries for modeling and mitigating the issue of low information density in 3D space.
 </p>
+
+## Architecture overview
 
 <br>
 
@@ -36,6 +40,8 @@ queries is effected. Following this, we concomitantly refine octree queries and 
 
 <br>
 
+## Performance
+
 <br>
 
 <p align="center">
@@ -50,6 +56,8 @@ queries is effected. Following this, we concomitantly refine octree queries and 
 
 <br>
 
+## Visualization
+
 <br>
 
 <p align="center">
@@ -62,3 +70,8 @@ queries is effected. Following this, we concomitantly refine octree queries and 
 </p>
 
 <br>
+
+## Next Step
+
+The code will be released after the paper is accepted.
+
