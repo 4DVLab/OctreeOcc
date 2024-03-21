@@ -1,18 +1,17 @@
 <p align="center">
   <h1 align="center">OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries</h1>
   <p align="center">
-    <a href="https://github.com/yuhanglu2000">Yuhang Lu</a>,
+    <a href="https://yuhanglu2000.github.io">Yuhang Lu</a>,
     <a href="https://xingezhu.me">Xinge Zhu</a>,
     <a href="https://tai-wang.github.io">Tai Wang</a>,
     <a href="https://yuexinma.me/aboutme.html">Yuexin Ma</a>
 
 
   </p>
-  <h3 align="center"><a href="https://arxiv.org/abs/2312.03774">Paper</a> <a </h3>
+  <h3 align="center"><a href="https://arxiv.org/pdf/2312.03774.pdf">Paper</a> <a </h3>
   <div align="center"></div>
 
 ## Main Idea
-
 <p align="center">
   <a href="">
     <img src="assets/teaser.png" alt="Relit" width="75%">
